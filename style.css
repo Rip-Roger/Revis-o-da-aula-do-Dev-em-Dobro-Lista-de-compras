@@ -1,0 +1,29 @@
+.soma-total {
+  background-color: gainsboro;
+  padding: 5px 20px;
+
+}
+
+.produto {
+  background-color: antiquewhite;
+  margin: 20px;
+  padding: 3px;
+  border: 2px solid gold;
+}
+
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  margin: 5px;
+  padding: 5px;
+  background-color: lightyellow;
+
+}
+
+.texto {
+  padding: 5px;
+  margin: 15px;
+  line-height: 20px;
+}
